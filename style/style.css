@@ -1,14 +1,14 @@
 @font-face {
         font-family: 'vazirR';
-        src: url(/assets/fonts/Vazirmatn-Regular.ttf);
+        src: url(../assets/fonts/Vazirmatn-Regular.ttf);
 }
 @font-face {
         font-family: 'vazirM';
-        src: url(/assets/fonts/Vazirmatn-Medium.ttf);
+        src: url(../assets/fonts/Vazirmatn-Medium.ttf)
 }
 @font-face {
         font-family: 'vazirB';
-        src: url(/assets/fonts/Vazirmatn-Bold.ttf);
+        src: url(../assets/fonts/Vazirmatn-Bold.ttf);
 }
 :root{
         --white: #ffffff;
